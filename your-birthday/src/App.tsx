@@ -357,11 +357,7 @@ function App() {
                   ♡
                 </div>
 
-                <p>
-                  Bas itna hi.
-                </p>
-
-              
+               
 
                 <p className="final">
                   Happy Birthday,
@@ -372,7 +368,8 @@ function App() {
                 <p className="hate-you">
                   Now go enjoy your day.
                   <br />
-                 
+                 jald hi mulakat hogi
+                 <br />
                   <strong>
                     I hate you, man.
                   </strong>

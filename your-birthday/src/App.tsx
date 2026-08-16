@@ -223,7 +223,7 @@ function App() {
               </p>
 
               <p className="birthday-subtitle">
-                Khubsurat insaan hai tu... haye! 🧿
+                Khubsurat insaan ho tum har tarike se ... haye! 🧿
               </p>
 
               <p className="birthday-note">
@@ -233,36 +233,7 @@ function App() {
             </div>
 
 
-            {/* ================= PLAYFUL SECTION ================= */}
-
-            <div className="divider">
-              <span>♡</span>
-            </div>
-
-            <h2>
-              Okay...
-              <span>ab thodi sach baat.</span>
-            </h2>
-
-            <p>
-              Tu genuinely ek bahut khubsurat insaan hai.
-              Aur sirf shakal se nahi...
-              dil se bhi.
-            </p>
-
-            <p>
-              Bas problem ye hai ki tu har baar itna achha
-              banne ki koshish karta hai ki mujhe irritate
-              karne ka ek aur reason mil jaata hai. 🙄
-            </p>
-
-            <p>
-              Toh haan...
-              aaj ke din zyada hawa mein mat udna.
-              Birthday hai tera, iska matlab ye nahi ki
-              tu suddenly bahut special ho gaya. 😌
-            </p>
-
+            
 
             {/* ================= NO PRESSURE ================= */}
 
